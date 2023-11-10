@@ -9,9 +9,14 @@
 
 Languages and tools:
 ![image](https://github.com/toxanton/toxanton/assets/148756173/c6b2516c-78b9-473c-a0af-4ae8d5651247) Python
+<img src="[https://github.com/favicon.ico](https://github.com/toxanton/toxanton/assets/148756173/c6b2516c-78b9-473c-a0af-4ae8d5651247" width="48">
 ![image](https://github.com/toxanton/toxanton/assets/148756173/5142cdaf-b713-4930-81ae-7e1a0cbb3bd5) SQL
+<img src="https://github.com/toxanton/toxanton/assets/148756173/5142cdaf-b713-4930-81ae-7e1a0cbb3bd5" width="48">
 ![image](https://github.com/toxanton/toxanton/assets/148756173/c4d35bf3-9ff9-4d78-a70a-4a626a9fa8fe) AirFlow
-![image](https://github.com/toxanton/toxanton/assets/148756173/3cb3e7d3-2a4e-4a6b-af94-88c8ed5f4156) Tableau
+<img src="https://github.com/toxanton/toxanton/assets/148756173/c4d35bf3-9ff9-4d78-a70a-4a626a9fa8fe" width="48">
+![image](https://github.com/toxanton/toxanton/assets/148756173/7f522fb6-db02-4f14-94f9-b520f4c124da) Tableau
+<img src="https://github.com/toxanton/toxanton/assets/148756173/7f522fb6-db02-4f14-94f9-b520f4c124da" width="48">
+
 
 Контакты:
 t.me/toxantonov
