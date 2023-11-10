@@ -8,7 +8,7 @@
 Прошел онлайн обучение в karpov.courses по специализации "Аналитик данных", со временем рассчитываю пройти и другие курсы, которые помогут повысить свои навыки. В 2012 году получил высшее образование по специальности "экономист". <br>
 
 Languages and tools: <br>
-<img src="https://github.com/toxanton/toxanton/assets/148756173/c6b2516c-78b9-473c-a0af-4ae8d5651247" width="48"> Python <br>
+<img src="https://icons8.ru/icon/13441/питон" width="48"> Python <br>
 <img src="https://github.com/toxanton/toxanton/assets/148756173/5142cdaf-b713-4930-81ae-7e1a0cbb3bd5" width="38"> SQL <br>
 <img src="https://github.com/toxanton/toxanton/assets/148756173/c4d35bf3-9ff9-4d78-a70a-4a626a9fa8fe" width="28"> AirFlow <br>
 <img src="https://github.com/toxanton/toxanton/assets/148756173/7f522fb6-db02-4f14-94f9-b520f4c124da" width="18"> Tableau <br>
